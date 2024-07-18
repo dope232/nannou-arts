@@ -1,0 +1,12 @@
+/home/dhan/rust/nano/target/debug/deps/liblyon_path-80191dd4d3fa685f.rmeta: /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/lib.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/events.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/path_state.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/path.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/commands.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/polygon.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/iterator.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/builder.rs
+
+/home/dhan/rust/nano/target/debug/deps/lyon_path-80191dd4d3fa685f.d: /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/lib.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/events.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/path_state.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/path.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/commands.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/polygon.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/iterator.rs /home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/builder.rs
+
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/lib.rs:
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/events.rs:
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/path_state.rs:
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/path.rs:
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/commands.rs:
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/polygon.rs:
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/iterator.rs:
+/home/dhan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-0.15.2/src/builder.rs:
