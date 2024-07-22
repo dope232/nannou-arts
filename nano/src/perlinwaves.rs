@@ -95,7 +95,7 @@ struct Model {
 }
 
 fn model(app: &App) -> Model {
-let _window = app.new_window().size(1024, 1024).view(view).key_released(key_released).build().unwrap();
+let _window = app.new_window().size(1024, 1024).view(view).build().unwrap();
 
     const NO_OF_AGENTS : u32 = 4000; 
     let mut agents = Vec::new(); 
@@ -165,13 +165,4 @@ draw.to_frame(app, &frame).unwrap();
 
 
 
-fn key_released(app: &App, model: &mut Model, key: Key) {
-    match key {
-        
-        Key::S => {
-            app.main_window()
-                .capture_frame(app.exe_name().unwrap() + ".png");
-        }
-        _other_key => {}
-    }
-}
+

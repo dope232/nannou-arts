@@ -124,10 +124,7 @@ fn key_released(app: &App, model: &mut Model, key: Key) {
         Key::Key8 => model.recursion_level = 8,
         Key::Key9 => model.recursion_level = 9,
         Key::Key0 => model.recursion_level = 0,
-        Key::S => {
-            app.main_window()
-                .capture_frame(app.exe_name().unwrap() + ".png");
-        }
+        
         _other_key => {}
     }
 }
