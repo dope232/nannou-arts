@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/da20c724-20f7-403d-9468-c482c971bbc9
 # Art stuff made using Nannou- creative coding framework in rust 
 
 - purplelines
